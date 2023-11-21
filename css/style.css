@@ -36,6 +36,10 @@ main{
   align-items: center;
 }
 
+.game_card.clicked{
+  background-color: azure;
+}
+
 
 button{
   padding: .5rem 1rem;
