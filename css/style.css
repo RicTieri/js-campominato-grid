@@ -31,7 +31,11 @@ main{
   width: calc(100% / 10);
   height: calc(100% / 10);
   border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 
 button{
   padding: .5rem 1rem;
